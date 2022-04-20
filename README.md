@@ -1,1 +1,1 @@
-# bmg3-project
+Eczane yönetim sistemi 
